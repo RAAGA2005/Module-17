@@ -26,8 +26,7 @@ To write a Python program to **print BFS traversal** from a given source vertex.
 ## PYTHON PROGRAM
 
 ```python
-#Reg No.:212222060253
-#Name: SRIJAYAN T
+
 
 # This class represents a directed graph
 # using adjacency list representation
