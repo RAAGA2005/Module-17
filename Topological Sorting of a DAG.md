@@ -23,8 +23,7 @@ To write a Python program to **print topological sorting** of a **Directed Acycl
 ## PYTHON PROGRAM
 
 ```python
-#Reg No.:212222060253
-#Name: SRIJAYAN T
+
 # A Python3 program to print topological sorting of a DAG
 def addEdge(u, v):
 	global adj
